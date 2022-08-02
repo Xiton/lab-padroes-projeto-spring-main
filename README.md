@@ -4,3 +4,5 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+## Utilizei o projeto do laboratório e acrescentei uma chamada a API do Banco Central (SELIC) para atualização do valor devido pelo cliente em uma determinada data.
